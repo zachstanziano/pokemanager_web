@@ -1,0 +1,425 @@
+{
+  "series": {
+    "sun_and_moon": {
+      "main_sets": [
+        {
+          "name": "Tag Team GX All Stars",
+          "code": "sm12a"
+        },
+        {
+          "name": "Alter Genesis",
+          "code": "sm12"
+        },
+        {
+          "name": "Dream League",
+          "code": "sm11b"
+        },
+        {
+          "name": "Remix Bout",
+          "code": "sm11a"
+        },
+        {
+          "name": "Miracle Twins",
+          "code": "sm11"
+        },
+        {
+          "name": "Sky Legend",
+          "code": "sm10b"
+        },
+        {
+          "name": "Detective Pikachu",
+          "code": "smP2"
+        },
+        {
+          "name": "GG End",
+          "code": "sm10a"
+        },
+        {
+          "name": "Double Blaze",
+          "code": "sm10"
+        },
+        {
+          "name": "Full Metal Wall",
+          "code": "sm9b"
+        },
+        {
+          "name": "Night Unison",
+          "code": "sm9a"
+        },
+        {
+          "name": "Tag Bolt",
+          "code": "sm9"
+        },
+        {
+          "name": "Ultra Shiny GX",
+          "code": "sm8b"
+        },
+        {
+          "name": "Dark Order",
+          "code": "sm8a"
+        },
+        {
+          "name": "Explosive Impact",
+          "code": "sm8"
+        },
+        {
+          "name": "Fairy Rise",
+          "code": "sm7b"
+        },
+        {
+          "name": "Thunderclap Spark",
+          "code": "sm7a"
+        },
+        {
+          "name": "Charisma of the Cracked Sky",
+          "code": "sm7"
+        },
+        {
+          "name": "Forbidden Light",
+          "code": "sm6"
+        },
+        {
+          "name": "Ultra Force",
+          "code": "sm5+"
+        },
+        {
+          "name": "Ultra Sun",
+          "code": "sm5S"
+        },
+        {
+          "name": "Ultra Moon",
+          "code": "sm5M"
+        },
+        {
+          "name": "GX Battle Boost",
+          "code": "sm4+"
+        },
+        {
+          "name": "The Transdimensional Beast",
+          "code": "sm4A"
+        },
+        {
+          "name": "The Awoken Hero",
+          "code": "sm4S"
+        },
+        {
+          "name": "Strengthening Expansion: Shining Legends",
+          "code": "sm3+"
+        },
+        {
+          "name": "Light-Consuming Darkness",
+          "code": "sm3N"
+        },
+        {
+          "name": "Seen the Rainbow Battle",
+          "code": "sm3H"
+        },
+        {
+          "name": "Collection Sun",
+          "code": "sm1S"
+        },
+        {
+          "name": "Collection Moon",
+          "code": "sm1M"
+        }
+      ],
+      "special_sets": [
+        {
+          "name": "Champion Road",
+          "code": "sm6b"
+        },
+        {
+          "name": "Dragon Storm",
+          "code": "sm6a"
+        },
+        {
+          "name": "Ash vs Team Rocket Battle Set",
+          "code": "sm1D"
+        },
+        {
+          "name": "Pikachu & New Friends",
+          "code": "sm1C"
+        },
+        {
+          "name": "Tapu Bulu GX Enhanced Starter",
+          "code": "sm1C"
+        },
+        {
+          "name": "Rockruff Full Power Deck",
+          "code": "sm1P"
+        },
+        {
+          "name": "Starter Set Decks",
+          "code": "sm1A"
+        },
+        {
+          "name": "Premium Trainer Box",
+          "code": "smB"
+        }
+      ],
+      "promos": {
+        "name": "Sun & Moon Promos",
+        "code": "PROMO"
+      }
+    },
+    "sword_and_shield": {
+      "main_sets": [
+        {
+          "name": "VSTAR Universe",
+          "code": "s12a"
+        },
+        {
+          "name": "Paradigm Trigger",
+          "code": "s12"
+        },
+        {
+          "name": "Incandescent Arcana",
+          "code": "s11a"
+        },
+        {
+          "name": "Lost Abyss",
+          "code": "s11"
+        },
+        {
+          "name": "Pokemon GO",
+          "code": "s10b"
+        },
+        {
+          "name": "Dark Phantasma",
+          "code": "s10a"
+        },
+        {
+          "name": "Time Gazer",
+          "code": "s10b"
+        },
+        {
+          "name": "Space Juggler",
+          "code": "s10P",
+          "note": "Code needs verification"
+        },
+        {
+          "name": "Battle Region",
+          "code": "s9a"
+        },
+        {
+          "name": "Star Birth",
+          "code": "s9"
+        },
+        {
+          "name": "VMAX Climax",
+          "code": "s8b"
+        },
+        {
+          "name": "Fusion ARTS",
+          "code": "s8"
+        },
+        {
+          "name": "Blue Sky Stream",
+          "code": "s7R"
+        },
+        {
+          "name": "Towering Perfection",
+          "code": "s7D"
+        },
+        {
+          "name": "Eevee Heroes",
+          "code": "s6a"
+        },
+        {
+          "name": "Jet Black Spirit",
+          "code": "s6K"
+        },
+        {
+          "name": "Silver Lance",
+          "code": "s6H"
+        },
+        {
+          "name": "Matchless Fighter",
+          "code": "s5a"
+        },
+        {
+          "name": "Rapid Strike Master",
+          "code": "s5R"
+        },
+        {
+          "name": "Single Strike Master",
+          "code": "s5I"
+        },
+        {
+          "name": "Shiny Star V",
+          "code": "s4a"
+        },
+        {
+          "name": "Electrifying Tackle",
+          "code": "s4"
+        },
+        {
+          "name": "Legendary Pulse",
+          "code": "s3a"
+        },
+        {
+          "name": "Infinity Zone",
+          "code": "s3"
+        },
+        {
+          "name": "Explosive Flame Walker",
+          "code": "s2a"
+        },
+        {
+          "name": "Rebellion Crash",
+          "code": "s2"
+        },
+        {
+          "name": "VMAX Rising",
+          "code": "s1a"
+        },
+        {
+          "name": "Sword",
+          "code": "s1W"
+        },
+        {
+          "name": "Shield",
+          "code": "s1H"
+        }
+      ],
+      "special_sets": [
+        {
+          "name": "Start Deck 100",
+          "code": "s1"
+        },
+        {
+          "name": "25th Anniversary Collection",
+          "code": "s8a"
+        },
+        {
+          "name": "25th Anniversary Promo Pack",
+          "code": "s8a-P"
+        },
+        {
+          "name": "Eevee Heroes VMAX Special",
+          "code": "SP4"
+        },
+        {
+          "name": "Silver Lance & Jet-Black Spirit Promos",
+          "code": "SP3"
+        },
+        {
+          "name": "VMAX Special Set",
+          "code": "SP2"
+        }
+      ],
+      "promos": {
+        "name": "Sword & Shield Promos",
+        "code": "PROMO"
+      }
+    },
+    "scarlet_and_violet": {
+      "main_sets": [
+        {
+          "name": "White Flare",
+          "code": "sv11W"
+        },
+        {
+          "name": "Black Bolt",
+          "code": "sv11B"
+        },
+        {
+          "name": "Glory of Team Rocket",
+          "code": "sv10"
+        },
+        {
+          "name": "Hot Air Arena",
+          "code": "sv9a"
+        },
+        {
+          "name": "Battle Partners",
+          "code": "sv9"
+        },
+        {
+          "name": "Terastal Festival ex",
+          "code": "sv8a"
+        },
+        {
+          "name": "Super Electric Breaker",
+          "code": "sv8"
+        },
+        {
+          "name": "Paradise Dragona",
+          "code": "sv7a"
+        },
+        {
+          "name": "Stellar Miracle",
+          "code": "sv7"
+        },
+        {
+          "name": "Night Wanderer",
+          "code": "sv6a"
+        },
+        {
+          "name": "Mask of Change",
+          "code": "sv6"
+        },
+        {
+          "name": "Crimson Haze",
+          "code": "sv5A"
+        },
+        {
+          "name": "Cyber Judge",
+          "code": "sv5M"
+        },
+        {
+          "name": "Wild Force",
+          "code": "sv5K"
+        },
+        {
+          "name": "Shiny Treasure ex",
+          "code": "sv4a"
+        },
+        {
+          "name": "Future Flash",
+          "code": "sv4M"
+        },
+        {
+          "name": "Ancient Roar",
+          "code": "sv4K"
+        },
+        {
+          "name": "Raging Surf",
+          "code": "sv3a"
+        },
+        {
+          "name": "Ruler of the Black Flame",
+          "code": "sv3"
+        },
+        {
+          "name": "Pokemon 151",
+          "code": "sv2a"
+        },
+        {
+          "name": "Snow Hazard",
+          "code": "sv2P"
+        },
+        {
+          "name": "Clay Burst",
+          "code": "sv2D"
+        },
+        {
+          "name": "Triplet Beat",
+          "code": "sv1a"
+        },
+        {
+          "name": "Violet ex",
+          "code": "sv1V"
+        },
+        {
+          "name": "Scarlet ex",
+          "code": "sv1S"
+        }
+      ],
+      "promos": {
+        "name": "Scarlet & Violet Promos",
+        "code": "PROMO"
+      }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1>PSA Processing Status</h1>
+    
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">API Status</h5>
+            <p class="card-text">
+                Calls remaining today: <strong>{{ calls_remaining }}</strong><br>
+                Slabs processed today: <strong>{{ processed_today|length }}</strong>
+            </p>
+            
+            <div class="btn-group">
+                {% if calls_remaining > 1 and pending_slabs %}
+                    <button class="btn btn-primary" onclick="processPSA()">
+                        Process Pending Slabs
+                    </button>
+                {% elif not pending_slabs %}
+                    <div class="alert alert-success">
+                        All slabs are up to date!
+                    </div>
+                {% else %}
+                    <div class="alert alert-warning">
+                        No API calls remaining today. Try again tomorrow.
+                    </div>
+                {% endif %}
+                
+                {% if processed_slabs %}
+                    <button class="btn btn-success" onclick="updateInventory()">
+                        Update Inventory
+                    </button>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    
+    {% if pending_slabs %}
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title">Pending Slabs</h5>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Cert Number</th>
+                            <th>Set</th>
+                            <th>Card</th>
+                            <th>Grade</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for slab in pending_slabs %}
+                        <tr>
+                            <td>{{ slab.cert_number }}</td>
+                            <td>{{ slab.set_name }}</td>
+                            <td>{{ slab.card_name }}</td>
+                            <td>PSA {{ slab.grade }}</td>
+                            <td>
+                                {% if not slab.psa_details_fetched %}
+                                    Needs API Data
+                                {% elif not slab.front_image_path or not slab.back_image_path %}
+                                    Missing Images
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    
+    {% if processed_slabs %}
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Processed Slabs</h5>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Cert Number</th>
+                            <th>Set</th>
+                            <th>Card</th>
+                            <th>Grade</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for slab in processed_slabs %}
+                        <tr>
+                            <td>{{ slab.cert_number }}</td>
+                            <td>{{ slab.set_name }}</td>
+                            <td>{{ slab.card_name }}</td>
+                            <td>PSA {{ slab.grade }}</td>
+                            <td>{{ slab.status }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<script>
+async function processPSA() {
+    if (!confirm('Process pending PSA slabs now?')) {
+        return;
+    }
+    
+    const button = event.target;
+    button.disabled = true;
+    button.textContent = 'Processing...';
+    
+    try {
+        const response = await fetch('/inventory/process-psa', {
+            method: 'POST'
+        });
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const contentType = response.headers.get("content-type");
+        if (!contentType || !contentType.includes("application/json")) {
+            throw new TypeError("Received non-JSON response from server");
+        }
+        
+        const data = await response.json();
+        alert(`Processing complete!\nProcessed: ${data.processed}\nFailed: ${data.failed}\nAPI Calls Remaining: ${data.remaining_calls}`);
+        location.reload();
+    } catch (e) {
+        alert('Error processing PSA data: ' + e.message);
+    } finally {
+        button.disabled = false;
+        button.textContent = 'Process Pending Slabs';
+    }
+}
+
+async function updateInventory() {
+    if (!confirm('Update inventory with processed slab data?')) {
+        return;
+    }
+    
+    const button = event.target;
+    button.disabled = true;
+    button.textContent = 'Updating...';
+    
+    try {
+        const response = await fetch('/inventory/update-slabs', {
+            method: 'POST'
+        });
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const contentType = response.headers.get("content-type");
+        if (!contentType || !contentType.includes("application/json")) {
+            throw new TypeError("Received non-JSON response from server");
+        }
+        
+        const data = await response.json();
+        alert(`Inventory updated!\nSlabs updated: ${data.updated}`);
+        location.reload();
+    } catch (e) {
+        alert('Error updating inventory: ' + e.message);
+    } finally {
+        button.disabled = false;
+        button.textContent = 'Update Inventory';
+    }
+}
+</script>
+{% endblock %}

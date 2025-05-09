@@ -1,0 +1,210 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Development Controls -->
+    <div class="row mb-4">
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Development Controls</h5>
+                    <div class="btn-group">
+                        <button class="btn btn-warning me-2" onclick="resetInventory()">Reset Inventory</button>
+                        <a href="{{ url_for('inventory.inventory', show_all='1' if not show_all else '0') }}" 
+                           class="btn btn-secondary">
+                            {{ "Hide Empty Sets" if show_all else "Show All Sets" }}
+                        </a>
+                        {% if not psa_status.get('not_configured', False) %}
+                        <a href="{{ url_for('inventory.psa_status') }}" class="btn btn-info">
+                            PSA Status
+                            {% if psa_status.pending_slabs > 0 %}
+                                <span class="badge bg-warning">{{ psa_status.pending_slabs }}</span>
+                            {% endif %}
+                        </a>
+                        {% else %}
+                        <button class="btn btn-secondary" disabled title="PSA features not configured">PSA Status</button>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- File Import -->
+    <div class="row mb-4">
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Import Data</h5>
+                    <form id="uploadForm" class="row g-3">
+                        <div class="col-auto">
+                            <select class="form-select" id="fileType" required>
+                                <option value="">Select file type...</option>
+                                <option value="purchases">Booster Purchases</option>
+                                <option value="sales">eBay Sales</option>
+                                {% if not psa_status.get('not_configured', False) %}
+                                <option value="psa">PSA Submission</option>
+                                {% endif %}
+                            </select>
+                        </div>
+                        <div class="col-auto">
+                            <input type="file" class="form-control" id="file" required>
+                        </div>
+                        <div class="col-auto">
+                            <button type="submit" class="btn btn-primary">Upload</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Inventory Display -->
+    {% for series, sets in series_sets.items() %}
+    <div class="row mb-4">
+        <div class="col">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">{{ series }}</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Set</th>
+                                    <th>Total Boxes</th>
+                                    <th>Business Boxes</th>
+                                    <th>Stashed Boxes</th>
+                                    <th>Available Packs</th>
+                                    <th>Pack Sales</th>
+                                    <th>Slabs</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for set in sets %}
+                                <tr>
+                                    <td>
+                                        {{ set.name }}
+                                        <small class="text-muted d-block">{{ set.code }}</small>
+                                    </td>
+                                    <td>
+                                        {{ set.business_boxes + set.stashed_boxes }}
+                                        {% if set.avg_price_per_box > 0 %}
+                                            <small class="text-muted d-block">${{ "%.2f"|format(set.avg_price_per_box) }}/box</small>
+                                        {% endif %}
+                                    </td>
+                                    <td>{{ set.business_boxes }}</td>
+                                    <td>{{ set.stashed_boxes }}</td>
+                                    <td>
+                                        {% set available_packs = set.business_boxes * set.packs_per_box - set.total_packs_opened - set.total_packs_sold %}
+                                        {{ available_packs }}
+                                        {% if set.business_boxes > 0 %}
+                                            <small class="text-muted d-block">
+                                                {{ set.total_packs_opened }} opened,
+                                                {{ set.total_packs_sold }} sold
+                                            </small>
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        {% if set.pack_sale_count > 0 %}
+                                            {{ set.pack_sale_count }} orders
+                                            <small class="text-muted d-block">
+                                                ${{ "%.2f"|format(set.pack_sales_revenue) }} revenue
+                                            </small>
+                                        {% else %}
+                                            -
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        {% if set.total_slabs > 0 %}
+                                            {{ set.total_slabs }} total
+                                            <small class="text-muted d-block">
+                                                {{ set.ready_slabs }} ready,
+                                                {{ set.listed_slabs }} listed,
+                                                {{ set.sold_slabs }} sold
+                                            </small>
+                                        {% else %}
+                                            -
+                                        {% endif %}
+                                    </td>
+                                    <td>
+                                        <div class="btn-group">
+                                            <button class="btn btn-sm btn-outline-secondary" onclick="showDetails('{{ set.name }}')">Details</button>
+                                        </div>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<script>
+// File upload handling
+document.getElementById('uploadForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    
+    const formData = new FormData();
+    formData.append('file', document.getElementById('file').files[0]);
+    formData.append('type', document.getElementById('fileType').value);
+    
+    try {
+        const response = await fetch('/inventory/upload', {
+            method: 'POST',
+            body: formData
+        });
+        
+        const data = await response.json();
+        
+        if (response.ok) {
+            let message = data.message;
+            
+            if (data.warnings) {
+                message += '\n\nWarnings:\n';
+                data.warnings.forEach(warning => {
+                    message += `\n${warning.message}\n`;
+                    warning.items.forEach(item => message += `- ${item}\n`);
+                });
+            }
+            
+            alert(message);
+            location.reload();
+        } else {
+            alert('Error: ' + data.error);
+        }
+    } catch (e) {
+        alert('Error uploading file: ' + e);
+    }
+});
+
+// Reset inventory
+async function resetInventory() {
+    if (!confirm('This will reset ALL inventory data. Are you sure?')) {
+        return;
+    }
+    
+    try {
+        const response = await fetch('/inventory/reset', {
+            method: 'POST'
+        });
+        
+        if (response.ok) {
+            alert('Inventory reset successful');
+            location.reload();
+        } else {
+            const data = await response.json();
+            alert('Error: ' + data.error);
+        }
+    } catch (e) {
+        alert('Error resetting inventory: ' + e);
+    }
+}
+</script>
+{% endblock %}
