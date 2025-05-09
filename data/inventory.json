@@ -1,0 +1,3547 @@
+{
+  "metadata": {
+    "last_updated": "2025-05-09T16:17:09.068524",
+    "version": "1.0",
+    "initialized_from": "pokemon_sets.json"
+  },
+  "opened": {
+    "sets": {
+      "Tag Team GX All Stars": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Alter Genesis": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Dream League": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Remix Bout": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Miracle Twins": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Sky Legend": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Detective Pikachu": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "GG End": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Double Blaze": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Full Metal Wall": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Night Unison": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Tag Bolt": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ultra Shiny GX": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Dark Order": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Explosive Impact": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Fairy Rise": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Thunderclap Spark": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Charisma of the Cracked Sky": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Forbidden Light": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ultra Force": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ultra Sun": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ultra Moon": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "GX Battle Boost": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "The Transdimensional Beast": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "The Awoken Hero": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Strengthening Expansion: Shining Legends": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Light-Consuming Darkness": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Seen the Rainbow Battle": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Collection Sun": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Collection Moon": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Champion Road": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Dragon Storm": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ash vs Team Rocket Battle Set": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Pikachu & New Friends": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Tapu Bulu GX Enhanced Starter": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Rockruff Full Power Deck": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Starter Set Decks": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Premium Trainer Box": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "VSTAR Universe": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Paradigm Trigger": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Incandescent Arcana": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Lost Abyss": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Pokemon GO": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Dark Phantasma": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Time Gazer": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Space Juggler": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Battle Region": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Star Birth": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "VMAX Climax": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Fusion ARTS": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Blue Sky Stream": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Towering Perfection": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Eevee Heroes": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Jet Black Spirit": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Silver Lance": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Matchless Fighter": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Rapid Strike Master": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Single Strike Master": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Shiny Star V": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Electrifying Tackle": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Legendary Pulse": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Infinity Zone": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Explosive Flame Walker": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Rebellion Crash": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "VMAX Rising": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Sword": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Shield": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Start Deck 100": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "25th Anniversary Collection": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "25th Anniversary Promo Pack": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Eevee Heroes VMAX Special": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Silver Lance & Jet-Black Spirit Promos": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "VMAX Special Set": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "White Flare": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Black Bolt": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Glory of Team Rocket": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Hot Air Arena": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Battle Partners": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Terastal Festival ex": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Super Electric Breaker": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Paradise Dragona": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Stellar Miracle": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Night Wanderer": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Mask of Change": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Crimson Haze": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Cyber Judge": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Wild Force": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Shiny Treasure ex": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Future Flash": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ancient Roar": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Raging Surf": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Ruler of the Black Flame": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Pokemon 151": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Snow Hazard": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Clay Burst": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Triplet Beat": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Violet ex": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      },
+      "Scarlet ex": {
+        "boxes": {
+          "purchased": 0,
+          "processed": 0,
+          "packs_per_box": 30,
+          "boxes": []
+        },
+        "packs": {
+          "total": 0,
+          "ripped": 0,
+          "sold": 0
+        },
+        "slabs": {
+          "total": 0,
+          "status": {
+            "imported": 0,
+            "ready_to_list": 0,
+            "listed": 0,
+            "stashed": 0
+          },
+          "items": []
+        }
+      }
+    }
+  },
+  "stashed": {
+    "sets": {
+      "Tag Team GX All Stars": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Alter Genesis": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Dream League": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Remix Bout": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Miracle Twins": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Sky Legend": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Detective Pikachu": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "GG End": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Double Blaze": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Full Metal Wall": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Night Unison": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Tag Bolt": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ultra Shiny GX": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Dark Order": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Explosive Impact": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Fairy Rise": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Thunderclap Spark": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Charisma of the Cracked Sky": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Forbidden Light": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ultra Force": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ultra Sun": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ultra Moon": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "GX Battle Boost": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "The Transdimensional Beast": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "The Awoken Hero": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Strengthening Expansion: Shining Legends": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Light-Consuming Darkness": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Seen the Rainbow Battle": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Collection Sun": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Collection Moon": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Champion Road": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Dragon Storm": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ash vs Team Rocket Battle Set": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Pikachu & New Friends": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Tapu Bulu GX Enhanced Starter": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Rockruff Full Power Deck": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Starter Set Decks": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Premium Trainer Box": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "VSTAR Universe": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Paradigm Trigger": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Incandescent Arcana": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Lost Abyss": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Pokemon GO": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Dark Phantasma": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Time Gazer": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Space Juggler": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Battle Region": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Star Birth": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "VMAX Climax": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Fusion ARTS": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Blue Sky Stream": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Towering Perfection": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Eevee Heroes": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Jet Black Spirit": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Silver Lance": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Matchless Fighter": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Rapid Strike Master": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Single Strike Master": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Shiny Star V": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Electrifying Tackle": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Legendary Pulse": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Infinity Zone": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Explosive Flame Walker": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Rebellion Crash": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "VMAX Rising": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Sword": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Shield": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Start Deck 100": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "25th Anniversary Collection": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "25th Anniversary Promo Pack": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Eevee Heroes VMAX Special": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Silver Lance & Jet-Black Spirit Promos": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "VMAX Special Set": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "White Flare": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Black Bolt": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Glory of Team Rocket": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Hot Air Arena": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Battle Partners": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Terastal Festival ex": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Super Electric Breaker": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Paradise Dragona": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Stellar Miracle": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Night Wanderer": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Mask of Change": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Crimson Haze": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Cyber Judge": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Wild Force": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Shiny Treasure ex": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Future Flash": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ancient Roar": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Raging Surf": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Ruler of the Black Flame": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Pokemon 151": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Snow Hazard": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Clay Burst": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Triplet Beat": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Violet ex": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      },
+      "Scarlet ex": {
+        "boxes_per_case": 6,
+        "packs_per_box": 30,
+        "cases": {
+          "total": 0,
+          "items": []
+        },
+        "loose_boxes": {
+          "total": 0,
+          "items": []
+        },
+        "total_boxes_stashed": 0
+      }
+    }
+  },
+  "sequential_sets": {
+    "pokemon": {},
+    "set_based": {}
+  }
+}

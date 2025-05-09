@@ -46,8 +46,8 @@ def import_booster_purchases(db: InventoryDB, file_path: str) -> Tuple[bool, Lis
     Import booster box purchases from CSV
     
     Expected format:
-    Source,Purchase Date,Boxes,Per Box USD,Total,Set,Packs Per Box,#of boxes stashed
-    Swivel,2025-02-07,2,$38.00,$76.00,Mask of Change,30,0
+    Source,Purchase Date,Boxes Purchased,Business Boxes,Stashed Boxes,Per Box USD,Total,Set,Packs Per Box,Business Packs
+    Swivel,2025-02-07,2,2,0,$38.00,$76.00,Mask of Change,30,60
     
     Returns:
     - success: bool
@@ -82,29 +82,34 @@ def import_booster_purchases(db: InventoryDB, file_path: str) -> Tuple[bool, Lis
                 
                 # Parse CSV line
                 parts = [p.strip().strip('"$,') for p in line.strip().split(',')]
-                if len(parts) < 8:
+                if len(parts) < 10:  # Updated for new column count
                     print(f"Skipping line {line_num}: insufficient columns")
                     continue
                 
                 try:
                     source = parts[0]
                     date_str = parts[1]
-                    total_boxes = int(parts[2])  # This is the total boxes purchased
-                    price_per_box = float(parts[3].replace('$', '').replace(',', '').strip())
-                    set_name = normalize_set_name(parts[5], sets_map)
-                    packs_per_box = int(parts[6])
-                    stashed_boxes = int(parts[7])  # This many boxes were stashed from the total
-                    business_boxes = total_boxes - stashed_boxes  # Remaining boxes are business
+                    total_boxes = int(parts[2])  # Boxes Purchased
+                    business_boxes = int(parts[3])  # Business Boxes
+                    stashed_boxes = int(parts[4])  # Stashed Boxes
+                    price_per_box = float(parts[5].replace('$', '').replace(',', '').strip())
+                    set_name = normalize_set_name(parts[7], sets_map)
+                    packs_per_box = int(parts[8])
                     
                     print(f"Parsed values:")  # Debug
                     print(f"  Source: {source}")
                     print(f"  Date: {date_str}")
                     print(f"  Total Boxes: {total_boxes}")
+                    print(f"  Business Boxes: {business_boxes}")
+                    print(f"  Stashed Boxes: {stashed_boxes}")
                     print(f"  Price/Box: {price_per_box}")
                     print(f"  Set: {set_name}")
                     print(f"  Packs/Box: {packs_per_box}")
-                    print(f"  Stashed: {stashed_boxes}")
-                    print(f"  Business: {business_boxes}")
+                    
+                    # Verify total boxes matches sum of business and stashed
+                    if total_boxes != (business_boxes + stashed_boxes):
+                        print(f"Warning: Total boxes ({total_boxes}) doesn't match sum of business ({business_boxes}) and stashed ({stashed_boxes})")
+                        continue
                     
                     # Verify set exists
                     set_exists = db.conn.execute('''
